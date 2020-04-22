@@ -14,3 +14,4 @@
 #endif // UNICODE
 
 void WriteLn(LPTCH str);
+BOOL CPUID_Suppoted();
